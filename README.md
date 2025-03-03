@@ -159,17 +159,10 @@ Detailed documentation is available in the `/docs` directory:
 - [Security Guidelines](docs/SECURITY.md)
 
 ## Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Literally just make your app better
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Support
-For support, please open an issue in the GitHub repository or contact the development team.
 
 ---
 Made with frustration by Eliya Maor (SudoSaturn)
