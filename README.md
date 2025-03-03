@@ -1,5 +1,5 @@
 # Cartera TMobilitat - Add to Wallet Integration
-![Apple Wallet](https://developer.apple.com/wallet/add-to-apple-wallet-guidelines/images/wallet-card-icon_2x.png)
+![Apple Wallet]([https://developer.apple.com/wallet/add-to-apple-wallet-guidelines/images/wallet-card-icon_2x.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Add_to_Apple_Wallet_badge.svg/512px-Add_to_Apple_Wallet_badge.svg.png))
 
 ## Overview
 This repository contains implementation guidelines and code examples for integrating Apple Wallet functionality into the Cartera TMobilitat application. The integration allows users to add their TMobilitat passes to Apple Wallet with NFC capabilities for contactless validation.
