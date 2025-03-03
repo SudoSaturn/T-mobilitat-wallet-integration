@@ -161,8 +161,5 @@ Detailed documentation is available in the `/docs` directory:
 ## Contributing
 1. Literally just make your app better
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 Made with frustration by Eliya Maor (SudoSaturn)
